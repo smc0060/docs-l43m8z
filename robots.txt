@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://handbook-sze8sp.salamcuan.shop/sitemap.xml
